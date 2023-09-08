@@ -56,12 +56,12 @@
       <rewriteRule>
         <active>true</active>
         <ruleType>7</ruleType>
-        <matchValue>1500</matchValue>
+        <matchValue>&quot;u_salary_1_5_year&quot;: 6000</matchValue>
         <matchHeaderRegex>false</matchHeaderRegex>
         <matchValueRegex>false</matchValueRegex>
         <matchRequest>false</matchRequest>
         <matchResponse>true</matchResponse>
-        <newValue>100</newValue>
+        <newValue>&quot;u_salary_1_5_year&quot;: 10</newValue>
         <newHeaderRegex>false</newHeaderRegex>
         <newValueRegex>false</newValueRegex>
         <matchWholeValue>false</matchWholeValue>
